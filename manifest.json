@@ -1,0 +1,12 @@
+{
+    "name": "BetterGun",
+    "version_number": "0.5.9",
+    "website_url": "",
+    "description": "Better Guns. For vanilla playing",
+    "dependencies": [
+        "dakkhuza-MTFO-4.6.2",
+		"BepInEx-BepInExPack_GTFO-3.2.1",
+        "DacreDOLOLO-WeaponStatShower-1.4.0",
+        "tru0067-PierceBugFix-1.2.1"
+    ]
+}
