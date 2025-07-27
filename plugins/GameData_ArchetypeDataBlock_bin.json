@@ -1933,7 +1933,7 @@
       "StaggerDamageMulti": 3.0,
       "PrecisionDamageMulti": 1.0,
       "DefaultClipSize": 6,
-      "DefaultReloadTime": 1.9,
+      "DefaultReloadTime": 2.6,
       "CostOfBullet": 3.0,
       "ShotDelay": 0.55,
       "ShellCasingSize": 1.0,
