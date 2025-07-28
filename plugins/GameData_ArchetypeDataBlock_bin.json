@@ -2454,7 +2454,7 @@
       },
       "PiercingBullets": false,
       "PiercingDamageCountLimit": 5,
-      "HipFireSpread": 1.0,
+      "HipFireSpread": 5.0,
       "AimSpread": 0.0,
       "EquipTransitionTime": 0.25,
       "EquipSequence": [
@@ -2884,7 +2884,7 @@
       "Damage": 30.1,
       "DamageFalloff": {
         "x": 12.0,
-        "y": 65.0,
+        "y": 40.0,
         "normalized": {
           "x": 0.122155204,
           "y": 0.992511034,
@@ -2894,7 +2894,7 @@
         "magnitude": 65.4904556,
         "sqrMagnitude": 1121.0
       },
-      "StaggerDamageMulti": 1.2,
+      "StaggerDamageMulti": 1.3,
       "PrecisionDamageMulti": 1.0,
       "DefaultClipSize": 8,
       "DefaultReloadTime": 2.2,
@@ -2927,7 +2927,7 @@
       },
       "PiercingBullets": false,
       "PiercingDamageCountLimit": 5,
-      "HipFireSpread": 2.0,
+      "HipFireSpread": 8.0,
       "AimSpread": 0.0,
       "EquipTransitionTime": 0.3,
       "EquipSequence": [
