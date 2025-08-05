@@ -42,7 +42,7 @@ PublicName: 737
 Description: 738
 Name: GEAR_HEL_Gun - Mechinegun_Semi, HEL 건
 
-PublicName: 739
+PublicName: 739 -> HEL Burst Cannon
 Description: 740
 Name: GEAR_MachineGun_Burst, 버스트 캐논
 
@@ -74,7 +74,7 @@ PublicName: 753
 Description: 754
 Name: GEAR_Shotgun_Semi_v2, 산탄총
 
-PublicName: 3837272169
+PublicName: 3837272169 -> HEL Slug Shotgun
 Description: 922859417
 Name: GEAR_Shotgun_Slug_Semi, 슬러그 샷건
 

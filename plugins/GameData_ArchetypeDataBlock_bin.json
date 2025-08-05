@@ -1130,7 +1130,7 @@
       "persistentID": 21
     },
     {
-      "PublicName": 739,
+      "PublicName": "HEL Burst Cannon",
       "Description": 740,
       "FireMode": 1,
       "RecoilDataID": 8,
@@ -1906,7 +1906,7 @@
       "persistentID": 33
     },
     {
-      "PublicName": 3837272169,
+      "PublicName": "HEL Slug Shotgun",
       "Description": 922859417,
       "FireMode": 0,
       "RecoilDataID": 50,
