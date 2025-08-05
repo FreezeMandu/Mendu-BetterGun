@@ -66,7 +66,7 @@ PublicName: 749
 Description: 750
 Name: GEAR_DMR_Burst, 더블탭 소총
 
-PublicName: 751
+PublicName: 751 -> HEL Sniper
 Description: 752
 Name: GEAR_Sniper_Semi_v2, 저격 소총
 
