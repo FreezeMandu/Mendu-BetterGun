@@ -1,1 +1,1 @@
-**Better Guns**
+https://github.com/FreezeMandu/Mendu-BetterGun
