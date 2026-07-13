@@ -1342,12 +1342,12 @@
         "magnitude": 81.394104,
         "sqrMagnitude": 2543.0
       },
-      "StaggerDamageMulti": 1.5,
+      "StaggerDamageMulti": 1.2,
       "PrecisionDamageMulti": 1.0,
-      "DefaultClipSize": 120,
-      "DefaultReloadTime": 3.3,
-      "CostOfBullet": 0.17,
-      "ShotDelay": 0.073,
+      "DefaultClipSize": 100,
+      "DefaultReloadTime": 3.4,
+      "CostOfBullet": 0.45,
+      "ShotDelay": 0.075,
       "ShellCasingSize": 1.0,
       "ShellCasingSpeedRange": {
         "x": 3.0,
@@ -2208,9 +2208,9 @@
       "FireMode": 2,
       "RecoilDataID": 21,
       "DamageBoosterEffect": 68,
-      "Damage": 5.7,
+      "Damage": 3.2,
       "DamageFalloff": {
-        "x": 11.0,
+        "x": 10.0,
         "y": 45.0,
         "normalized": {
           "x": 0.11043153,
@@ -2221,9 +2221,9 @@
         "magnitude": 45.2769241,
         "sqrMagnitude": 1557.0
       },
-      "StaggerDamageMulti": 2.0,
-      "PrecisionDamageMulti": 0.8,
-      "DefaultClipSize": 15,
+      "StaggerDamageMulti": 1.5,
+      "PrecisionDamageMulti": 0.7,
+      "DefaultClipSize": 14,
       "DefaultReloadTime": 2.6,
       "CostOfBullet": 1.4,
       "ShotDelay": 0.25,
