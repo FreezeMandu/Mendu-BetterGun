@@ -155,7 +155,7 @@
       "DamageBoosterEffect": 64,
       "Damage": 12,
       "DamageFalloff": {
-        "x": 35.0,
+        "x": 28.0,
         "y": 80.0,
         "normalized": {
           "x": 0.265156478,
@@ -167,9 +167,9 @@
         "sqrMagnitude": 1521.0
       },
       "StaggerDamageMulti": 2.0,
-      "PrecisionDamageMulti": 0.8,
-      "DefaultClipSize": 21,
-      "DefaultReloadTime": 1.5,
+      "PrecisionDamageMulti": 0.6,
+      "DefaultClipSize": 18,
+      "DefaultReloadTime": 1.7,
       "CostOfBullet": 3.0,
       "ShotDelay": 0.23,
       "ShellCasingSize": 1.0,
@@ -2404,7 +2404,7 @@
       "DamageBoosterEffect": 59,
       "Damage": 14.5,
       "DamageFalloff": {
-        "x": 18.0,
+        "x": 15.0,
         "y": 80.0,
         "normalized": {
           "x": 0.148340449,
@@ -2687,7 +2687,7 @@
       "FireMode": 2,
       "RecoilDataID": 49,
       "DamageBoosterEffect": 60,
-      "Damage": 22.0,
+      "Damage": 16.0,
       "DamageFalloff": {
         "x": 35.0,
         "y": 100.0,
@@ -2700,11 +2700,11 @@
         "magnitude": 76.15773,
         "sqrMagnitude": 1227.0
       },
-      "StaggerDamageMulti": 1.2,
-      "PrecisionDamageMulti": 2.0,
+      "StaggerDamageMulti": 1.0,
+      "PrecisionDamageMulti": 1.8,
       "DefaultClipSize": 15,
       "DefaultReloadTime": 2.5,
-      "CostOfBullet": 1.9,
+      "CostOfBullet": 2.0,
       "ShotDelay": 0.3,
       "ShellCasingSize": 1.0,
       "ShellCasingSpeedRange": {
@@ -2895,7 +2895,7 @@
         "sqrMagnitude": 1121.0
       },
       "StaggerDamageMulti": 1.3,
-      "PrecisionDamageMulti": 1.0,
+      "PrecisionDamageMulti": 0.9,
       "DefaultClipSize": 8,
       "DefaultReloadTime": 2.2,
       "CostOfBullet": 1.8,
@@ -3290,7 +3290,7 @@
       },
       "StaggerDamageMulti": 2.0,
       "PrecisionDamageMulti": 1.0,
-      "DefaultClipSize": 6,
+      "DefaultClipSize": 5,
       "DefaultReloadTime": 1.3,
       "CostOfBullet": 3.8,
       "ShotDelay": 0.2,
@@ -3374,7 +3374,7 @@
       "DamageBoosterEffect": 67,
       "Damage": 3.8,
       "DamageFalloff": {
-        "x": 25.0,
+        "x": 20.0,
         "y": 65.0,
         "normalized": {
           "x": 0.152057186,
@@ -3385,10 +3385,10 @@
         "magnitude": 65.76473,
         "sqrMagnitude": 2073.0
       },
-      "StaggerDamageMulti": 1.0,
-      "PrecisionDamageMulti": 1.5,
-      "DefaultClipSize": 60,
-      "DefaultReloadTime": 1.8,
+      "StaggerDamageMulti": 0.3,
+      "PrecisionDamageMulti": 1.3,
+      "DefaultClipSize": 52,
+      "DefaultReloadTime": 1.9,
       "CostOfBullet": 0.7,
       "ShotDelay": 0.04,
       "ShellCasingSize": 1.0,
@@ -3435,7 +3435,7 @@
       "AimTransitionTime": 0.4,
       "AimSequence": [],
       "BurstDelay": 0.005,
-      "BurstShotCount": 5,
+      "BurstShotCount": 4,
       "ShotgunBulletCount": 0,
       "ShotgunConeSize": 0,
       "ShotgunBulletSpread": 0,
