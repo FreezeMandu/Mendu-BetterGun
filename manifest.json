@@ -5,7 +5,7 @@
     "description": "Better Guns. For vanilla playing",
     "dependencies": [
 		"BepInEx-BepInExPack_GTFO-3.2.2",
-        "MTFO-dakkhuza-4.6.3",
+        "dakkhuza-MTFO-4.6.3",
         "DacreDOLOLO-WeaponStatShower-1.4.0",
         "tru0067-PierceBugFix-1.2.2"
     ]
