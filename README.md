@@ -1,1 +1,1 @@
-https://github.com/FreezeMandu/Mendu-BetterGun
+Notes: https://github.com/FreezeMandu/Mendu-BetterGun/releases
