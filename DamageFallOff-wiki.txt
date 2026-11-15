@@ -1,0 +1,5 @@
+https://gtfo.wiki.gg/wiki/Damage_Falloff#Example_Calculations
+
+끝 거리(y) - (목표 체력 / 데미지) * (끝 거리(y) - 시작 거리(x))
+결과값 의미: 목표물을 한방에 보내는 거리의 한계
+주의: gtfo 기본 폴오프 배수 기준
