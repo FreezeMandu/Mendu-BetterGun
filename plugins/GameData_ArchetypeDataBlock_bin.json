@@ -444,10 +444,10 @@
       "FireMode": 2,
       "RecoilDataID": 42,
       "DamageBoosterEffect": 53,
-      "Damage": 7.5,
+      "Damage": 6.0,
       "DamageFalloff": {
-        "x": 25.0,
-        "y": 180.0,
+        "x": 20.0,
+        "y": 80.0,
         "normalized": {
           "x": 0.148340449,
           "y": 0.9889363,
@@ -1346,7 +1346,7 @@
       "PrecisionDamageMulti": 1.0,
       "DefaultClipSize": 100,
       "DefaultReloadTime": 3.4,
-      "CostOfBullet": 0.45,
+      "CostOfBullet": 0.5,
       "ShotDelay": 0.075,
       "ShellCasingSize": 1.0,
       "ShellCasingSpeedRange": {
@@ -1732,8 +1732,8 @@
       },
       "StaggerDamageMulti": 1.5,
       "PrecisionDamageMulti": 2.0,
-      "DefaultClipSize": 3,
-      "DefaultReloadTime": 2.55,
+      "DefaultClipSize": 2,
+      "DefaultReloadTime": 2.4,
       "CostOfBullet": 3.2,
       "ShotDelay": 0.8,
       "ShellCasingSize": 1.0,
@@ -1816,7 +1816,7 @@
       "DamageBoosterEffect": 58,
       "Damage": 3.01,
       "DamageFalloff": {
-        "x": 4.0,
+        "x": 6.0,
         "y": 40.0,
         "normalized": {
           "x": 0.0995037258,
@@ -1830,7 +1830,7 @@
       "StaggerDamageMulti": 1.0,
       "PrecisionDamageMulti": 1.0,
       "DefaultClipSize": 8,
-      "DefaultReloadTime": 2.7,
+      "DefaultReloadTime": 2.6,
       "CostOfBullet": 2.1,
       "ShotDelay": 0.52,
       "ShellCasingSize": 1.0,
@@ -1907,7 +1907,7 @@
     },
     {
       "PublicName": "HEL Slug Shotgun",
-      "Description": 922859417,
+      "Description": "[Dmg/Dist]: 30/14.75m, 20/21.5m, 10/28.25m",
       "FireMode": 0,
       "RecoilDataID": 50,
       "DamageBoosterEffect": 58,
@@ -2208,9 +2208,9 @@
       "FireMode": 2,
       "RecoilDataID": 21,
       "DamageBoosterEffect": 68,
-      "Damage": 3.2,
+      "Damage": 2.7,
       "DamageFalloff": {
-        "x": 10.0,
+        "x": 8.0,
         "y": 45.0,
         "normalized": {
           "x": 0.11043153,
@@ -2223,7 +2223,7 @@
       },
       "StaggerDamageMulti": 1.5,
       "PrecisionDamageMulti": 0.7,
-      "DefaultClipSize": 14,
+      "DefaultClipSize": 15,
       "DefaultReloadTime": 2.6,
       "CostOfBullet": 1.4,
       "ShotDelay": 0.25,
@@ -2404,8 +2404,8 @@
       "DamageBoosterEffect": 59,
       "Damage": 14.5,
       "DamageFalloff": {
-        "x": 15.0,
-        "y": 80.0,
+        "x": 13.0,
+        "y": 60.0,
         "normalized": {
           "x": 0.148340449,
           "y": 0.9889363,
@@ -2703,7 +2703,7 @@
       "StaggerDamageMulti": 1.0,
       "PrecisionDamageMulti": 1.8,
       "DefaultClipSize": 15,
-      "DefaultReloadTime": 2.5,
+      "DefaultReloadTime": 2.35,
       "CostOfBullet": 2.0,
       "ShotDelay": 0.3,
       "ShellCasingSize": 1.0,
